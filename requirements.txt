@@ -1,0 +1,14 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+config==0.5.1
+idna==3.4
+item==0.0.3
+lxml==4.9.3
+psycopg2-binary==2.9.6
+pytils==0.4.1
+requests==2.31.0
+selection==0.0.21
+six==1.16.0
+urllib3==2.0.4
+user-agent==0.1.10
+weblib==0.1.30
